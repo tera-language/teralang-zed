@@ -1,0 +1,4 @@
+name = "TeraLang"
+grammar = "teralang"
+path_suffixes = ["tera"]
+line_comments = ["// "]
