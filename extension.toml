@@ -4,8 +4,8 @@ version = "0.1.0"
 schema_version = 1
 authors = ["noClaps <contact@zerolimits.dev>"]
 description = "TeraLang extension for Zed"
-repository = "https://github.com/noClaps/teralang-zed"
+repository = "https://github.com/tera-language/teralang-zed"
 
 [grammars.teralang]
-repository = "https://github.com/noClaps/tree-sitter-teralang"
-rev = "49d26ab38cb2fbdb0049f27f130a190f2bb7a301"
+repository = "https://github.com/tera-language/tree-sitter-teralang"
+rev = "bf3e152c3f3fcfad4aeb70a302f10785a4e1cbdb"
