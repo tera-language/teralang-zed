@@ -8,4 +8,4 @@ repository = "https://github.com/tera-language/teralang-zed"
 
 [grammars.teralang]
 repository = "https://github.com/tera-language/tree-sitter-teralang"
-rev = "bf3e152c3f3fcfad4aeb70a302f10785a4e1cbdb"
+rev = "0f6153132636cc09d5d8845a0608c37b0dfa485a"
